@@ -1,0 +1,15 @@
+export const black = "rgb(45, 49, 60)";
+export const grey = "rgb(74, 74, 74)";
+export const liteGrey = "rgb(154, 162, 165)";
+export const line = "rgb(229, 232, 236)";
+export const background = "rgb(243, 247, 250)";
+export const white = "rgb(255, 255, 255)";
+export const blue = "rgb(33, 150, 243)";
+export const dopBlue = "rgb(75, 124, 244)";
+export const liteBlue = "rgb(33, 150, 243)";
+export const hoverLightBlue = "rgb(242, 252, 255)";
+export const green = "rgb(98, 187, 66)";
+export const red = "rgb(212, 68, 68)";
+export const yellow = "rgb(211, 191, 3)";
+export const purple = "rgb(187, 101, 255)";
+export const orange = "rgb(255, 109, 0)";
